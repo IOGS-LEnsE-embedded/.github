@@ -2,8 +2,11 @@
 
 This page gathers a set of **repositories**.
 
-They concern the learning of **digital tools for future engineers**, especialy tools for science, physics and photonics.
+They concern the learning of **digital tools for future engineers**, especialy for embedded systems in the engineer training of the Institut d'Optique.
 
+### About
+
+### Using these repositories
 
 <!--
 
